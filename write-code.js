@@ -48,7 +48,7 @@ const isPangram = (str) => {
 
 // console.log(isPangram(str))
 // Time: O(n)
-// Space: O(n)
+// Space: O(1)
 
 
 // Longest Word
